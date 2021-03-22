@@ -12,8 +12,7 @@
   <li><a href="https://www.facebook.com/Union-FinTech-101521661481885">Fb:Union-Fintech</a></li>
   <li><a href="https://docs.google.com/spreadsheets/u/1/d/19zVTnEKT4-yo4CVhMYEkP6iGacUsVwxU35vEMthmKrI/edit#gid=0">Grades</li>
  </ul>
-<h2>&#x270F; Work1-6</h2>
-  <a href="https://docs.google.com/presentation/d/1RCUnZUk5qfb_ukjVjv5ievIR-3ZHs6Do/edit#slide=id.p12">作業說明</a>
+<h2>&#x270F;  <a href="https://docs.google.com/presentation/d/1RCUnZUk5qfb_ukjVjv5ievIR-3ZHs6Do/edit#slide=id.p12">Work1-6</a></h2>
   <ul>
    <li>Work1</li>
    <li>Work2</li>
