@@ -1,2 +1,2 @@
 # Fintech
-<h2>&#x270F; About Me</h2>
+<h2><h3>&#x270F;</h3> About Me</h2>
