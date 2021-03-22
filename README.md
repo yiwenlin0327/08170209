@@ -1,2 +1,2 @@
 # Fintech
-&#x270F;##About Me
+&#x1F33C; ## About Me
