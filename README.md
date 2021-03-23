@@ -43,7 +43,7 @@
 <ul>
  <li>指導老師: 彭金隆</li>
  <li>業師: 蕭佳慧_imcaroline@cathaylife.com.tw</li>
- <li>組員:<li>
+ <li>組員:</li>
  <dl>
   <dt>東吳巨資二 楊皓宇_will89117@gmail.com</dt>
   <dt>東吳巨資二 林羿彣_vivianlin0327@gmail.com</dt>
