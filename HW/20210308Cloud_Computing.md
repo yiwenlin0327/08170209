@@ -15,9 +15,9 @@
 3. 社群雲
 4. 混合雲
 ### 三個服務模式
-1. 架構即服務（Infrastructure as a Service，IaaS）就是租借給你使用「硬體設施」的權利，使用的對象多為 IT 管理人員
-2. 平台即服務（Platform as a Service，PaaS）就是租借給你使用「開發平台」的權利，使用的對象多為軟體開發工程師
-3. 軟體即服務（Software as a Service，SaaS）就是租借給你使用「線上應用程式」的權利，使用的對象多為一般大眾
+1. 架構即服務（Infrastructure as a Service，IaaS）就是租借給你使用「**硬體設施**」的權利，使用的對象多為** IT 管理人員
+2. 平台即服務（Platform as a Service，PaaS）就是租借給你使用「**開發平台**」的權利，使用的對象多為**軟體開發工程師
+3. 軟體即服務（Software as a Service，SaaS）就是租借給你使用「**線上應用程式**」的權利，使用的對象多為**一般大眾
 
 
 
