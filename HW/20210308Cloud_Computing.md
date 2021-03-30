@@ -19,3 +19,6 @@
 </ul>
 
 等等大廠，因此身處在這個資訊蓬勃新世代的我們，應該更加的理解這個可以改變全球的資訊服務革命!
+
+## 參考資料
+1.https://www.ecloudture.com/cloud-computing-information-service-revelution/
