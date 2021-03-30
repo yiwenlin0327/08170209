@@ -38,5 +38,7 @@ google雲端來清空需要花錢買的記憶卡等等，因為這些東西都�
 
 
 ## 參考資料
-<br>1.<a href="https://www.ecloudture.com/cloud-computing-information-service-revelution/">雲端運算是什麼 ? 一場改變全球的資訊服務革命</a></br>
-<br>2.<a href="https://www.inside.com.tw/feature/ai/9730-cloud-computing">雲端運算是什麼？Amazon、Google、Microsoft等大廠爭相佈局，會如何改變人類生活？</a></br>
+1. <a href="https://www.ecloudture.com/cloud-computing-information-service-revelution/">雲端運算是什麼 ? 一場改變全球的資訊服務革命</a>
+2. <a href="https://www.inside.com.tw/feature/ai/9730-cloud-computing">雲端運算是什麼？Amazon、Google、Microsoft等大廠爭相佈局，會如何改變人類生活？</a>
+3. <a href="https://www.cmoney.tw/notes/note-detail.aspx?nid=174691">「雲端運算」是台灣下個兆元產業 ？ 這3大巨頭掌握全球近 6 成市場</a>
+4. <a href="http://www.cc.ntu.edu.tw/chinese/epaper/0015/20101220_1501.htm">臺大觔斗雲服務之五、四、三</a>
