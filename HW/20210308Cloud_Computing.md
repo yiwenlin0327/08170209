@@ -21,5 +21,5 @@
 等等大廠，因此身處在這個資訊蓬勃新世代的我們，應該更加的理解這個可以改變全球的資訊服務革命!
 
 ## 參考資料
-1.<a href="https://www.ecloudture.com/cloud-computing-information-service-revelution/">雲端運算是什麼 ? 一場改變全球的資訊服務革命</a>
-2.<a href="https://www.inside.com.tw/feature/ai/9730-cloud-computing">雲端運算是什麼？Amazon、Google、Microsoft等大廠爭相佈局，會如何改變人類生活？</a>
+<br>1.<a href="https://www.ecloudture.com/cloud-computing-information-service-revelution/">雲端運算是什麼 ? 一場改變全球的資訊服務革命</a></br>
+<br>2.<a href="https://www.inside.com.tw/feature/ai/9730-cloud-computing">雲端運算是什麼？Amazon、Google、Microsoft等大廠爭相佈局，會如何改變人類生活？</a></br>
