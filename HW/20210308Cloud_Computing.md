@@ -10,12 +10,11 @@
 4. 快速重新部署靈活度
 5. 服務可測量
 ### 四個佈署模型
-1. 公有雲
-2. 私有雲
-3. 社群雲
-4. 混合雲
+1. 公有雲 EX:Amazon Web Services、Google Drive 
+2. 私有雲 EX:東吳email系統
+3. 社群雲 EX:電子病歷交換平臺
+4. 混合雲 **結合2個或以上的雲端佈署模式(公有雲、私有雲)，未來趨勢應會朝向混合雲或是多雲環境發展**
 
-<img src="https://fsv.cmoney.tw/cmstatic/notes/capture/1576683/20190725113648256.JPG">
 ### 三個服務模式
 1. 架構即服務（Infrastructure as a Service，IaaS）就是租借給你使用「**硬體設施**」的權利，使用的對象多為**IT 管理人員**
 2. 平台即服務（Platform as a Service，PaaS）就是租借給你使用「**開發平台**」的權利，使用的對象多為**軟體開發工程師**
