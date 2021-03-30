@@ -3,7 +3,7 @@
 企業不再需要購買大量的硬體設備，只需要花費向供應商租借的資源即可。
 
 ## 雲端運算的特徵
-1. On-demand self-service（按需求自行調配服務)
+<br>1. On-demand self-service（按需求自行調配服務)
 
 <br>2. Broad Network Access（網路存取方式廣泛、多元）
 
