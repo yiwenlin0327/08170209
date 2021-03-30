@@ -45,6 +45,7 @@
  <li>指導老師: 彭金隆</li>
  <li>業師: 蕭佳慧_imcaroline@cathaylife.com.tw</li>
  <li>組員:</li>
+ 
  東吳巨資二 楊皓宇_will89117@gmail.com/東吳巨資二 林羿彣_vivianlin0327@gmail.com
  
  台大數學四 彭盛皓_b06201008@ntu.edu.tw/政大風管四 李佳恩_105308030@nccu.edu.tw
