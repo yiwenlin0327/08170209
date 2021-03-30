@@ -4,13 +4,9 @@
 
 ## 雲端運算的特徵
 <br>1. On-demand self-service（按需求自行調配服務)
-
 <br>2. Broad Network Access（網路存取方式廣泛、多元）
-
 <br>3. Resource Pooling（共享資源池）
-
 <br>4. Rapid Elasticity（快速重新部署靈活度）
-
 <br>5. Measure Service（服務可測量）
 
 
