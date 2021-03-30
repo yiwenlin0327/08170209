@@ -14,7 +14,7 @@
 2.私有雲
 3.社群雲
 4.混合雲
-<img src="https://fsv.cmoney.tw/cmstatic/notes/capture/1576683/20190725113648256.JPG">
+<img src="https://fsv.cmoney.tw/cmstatic/notes/capture/1576683/20190725113648256.JPG" width=50%>
 ### 三個服務模式
 
 
