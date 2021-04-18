@@ -15,27 +15,27 @@
  </ul>
 <h2>&#x270F;  <a href="https://docs.google.com/presentation/d/1RCUnZUk5qfb_ukjVjv5ievIR-3ZHs6Do/edit#slide=id.p12">Work1-6</a></h2>
   <ul>
-   <li>Work1</li>
+   <li>Work1:What do you think of Cloud Computing ?</li>
    <ul>
    <li><a href="https://github.com/yiwenlin0327/Fintech/blob/main/HW/20210308Cloud_Computing.md">link</a></li>
    </ul>
-   <li>Work2</li>
+   <li>Work2:Build a Website using Amazon EC2 with LAMP</li>
    <ul>
    <li><a href="https://www.youtube.com/watch?v=0caJO_S3Z8k">link</a></li>
    </ul>
-   <li>Work3</li>
+   <li>Work3:Build a Website using Amazon S3(Versioning) and AWS Amplify</li>
    <ul>
    <li><a href="https://www.youtube.com/watch?v=kSJCaKWdgGw">link</a></li>
    </ul>
-   <li>Work4</li>
+   <li>Work4:Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda</li>
    <ul>
    <li><a href="https://youtu.be/5A5i59TOKco">link</a></li>
    </ul>
-   <li>Work5</li>
+   <li>Work5:Create a Database using Amazon RDS or Amazon DynamoDB</li>
    <ul>
    <li><a href="">link</a></li>
    </ul>
-   <li>Work6</li>
+   <li>Work6:Create a Docker Container or Build your own Project Services</li>
    <ul>
    <li><a href="">link</a></li>
    </ul>
