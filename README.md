@@ -52,5 +52,5 @@
  <li><a href="https://docs.google.com/spreadsheets/d/1TOt1oxTvXnUgcdJFwg7Y29jYtDaC_svoLRFdPjPu8J8/edit#gid=694081390">題目說明</a></li>
  <li><a href="https://drive.google.com/file/d/1PE5uE8_4QL-MDYs1O2ZuWhWQJBtct3QA/view">說明ppt</a></li>
 </ul>
-  
+  <a href="https://drive.google.com/file/d/1RgLSnZlCgGxsPMJ2LtD2aKw-cmNZxdSv/view?usp=sharing">第一次專題追蹤</a>
 
