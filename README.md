@@ -45,6 +45,8 @@
  <li>指導老師: 彭金隆</li>
  <li>業師: 蕭佳慧_imcaroline@cathaylife.com.tw</li>
  <li>組員:</li>
+ <li><a href="https://drive.google.com/file/d/1RgLSnZlCgGxsPMJ2LtD2aKw-cmNZxdSv/view?usp=sharing">第一次專題追蹤</a></li>
+ <li><a href="https://docs.google.com/presentation/d/1jjJJ22DlRf8AJNfJ5M_Q1qxPRRNYIyYTEbUyLe6Jo0w/edit?usp=sharing">第二次專題追蹤</a></li>
  
  東吳巨資二 楊皓宇 will89117@gmail.com/東吳巨資二 林羿彣 vivianlin0327@gmail.com
  
@@ -52,7 +54,6 @@
  <li><a href="https://docs.google.com/spreadsheets/d/1TOt1oxTvXnUgcdJFwg7Y29jYtDaC_svoLRFdPjPu8J8/edit#gid=694081390">題目說明</a></li>
  <li><a href="https://drive.google.com/file/d/1PE5uE8_4QL-MDYs1O2ZuWhWQJBtct3QA/view">說明ppt</a></li>
 </ul>
-  <a href="https://drive.google.com/file/d/1RgLSnZlCgGxsPMJ2LtD2aKw-cmNZxdSv/view?usp=sharing">第一次專題追蹤</a>
-  <a href="https://trello.com/b/p47zbfwt">trello</a>
-  <a href="https://docs.google.com/spreadsheets/d/1VTmaks8Tk7lk0xdBxfHlZt_IqNpSZaYXeZxBl68GESI/edit#gid=261342402">104</a>
+ 
+
 
